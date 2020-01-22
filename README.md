@@ -1,4 +1,4 @@
-# Ember CLI Mirage 23
+# Ember CLI Mirage 2
 
 [![Build Status](https://travis-ci.org/samselikoff/ember-cli-mirage.svg?branch=master)](https://travis-ci.org/samselikoff/ember-cli-mirage)
 [![npm version](https://badge.fury.io/js/ember-cli-mirage.svg)](http://badge.fury.io/js/ember-cli-mirage)
